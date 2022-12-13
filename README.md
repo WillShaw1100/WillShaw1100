@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+Im Will! A student studying a BSc (Hons) in Software Engineering.
+
+For work I currently do the occasional shift in the event industry, working at some big festivals in multiple roles, from bar staff to production crew and almost everything in between.
+
+Outside of my studies and work I enjoy kayaking, volunteering (in the role of a leader for the Scouts) and gaming.
+
+## 🛠 Skills
+
+✔ Generally know my way around...
+- JavaScript(Node)
+- Python
+- Java
+- MySQL
+- Full Stack Web Development (Express, Vue)
+
 <!--
 **WillShaw1100/WillShaw1100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
