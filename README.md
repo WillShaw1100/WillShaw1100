@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Im Will! A student studying a BSc (Hons) in Software Engineering.
+Im Will! I currently have a BSc (Hons) in Software Engineering and I am currently studying a masters in Game Development.
 
 For work I currently do the occasional shift in the event industry, working at some big festivals in multiple roles, from bar staff to production crew and almost everything in between.
 
-Outside of my studies and work I enjoy kayaking, volunteering (in the role of a leader for the Scouts) and gaming.
+Outside of my studies and work I enjoy kayaking, volunteering and gaming.
 
 ## 🛠 Skills
 
